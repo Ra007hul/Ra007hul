@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ra007hul
-- 👀 I’m interested in Android development
-- 🌱 I’m currently learning Android development
-- 💞️ I’m looking to collaborate on Android apps
+- 👀 I’m interested in Backend development
+- 🌱 I’m currently learning Backend development
+- 💞️ I’m looking to collaborate on backend projects
 - 📫 How to reach me ... 007rahul9254@gmail.com
 
 <!---
