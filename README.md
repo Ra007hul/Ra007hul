@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ra007hul
-- 👀 I’m interested in Backend development
-- 🌱 I’m currently learning Backend development
-- 💞️ I’m looking to collaborate on backend projects
+- 👀 I’m interested in Full Stack development
+- 🌱 I’m currently learning Full Stack development
+- 💞️ I’m looking to collaborate on Full Stack projects
 - 📫 How to reach me ... 007rahul9254@gmail.com
 
 <!---
